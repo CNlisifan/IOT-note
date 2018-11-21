@@ -1,0 +1,25 @@
+https://github.com/riclolsen/OSHMI
+https://sourceforge.net/projects/oshmiopensubstationhmi/
+
+
+modbus保存到数据库
+https://sourceforge.net/projects/mod2sql/
+modbus OPC软件
+https://sourceforge.net/projects/mod2opc/
+
+ODBC查询工具
+https://sourceforge.net/projects/odbcquerytool/
+https://sourceforge.net/projects/odbc-query-tool/
+https://sourceforge.net/projects/freesql-net/
+https://sourceforge.net/projects/coolsql/
+
+网页数据库
+https://sourceforge.net/projects/mywebsql/
+
+redis查询工具
+https://sourceforge.net/projects/redis-desktop-manager.mirror/
+
+开源数据库数据分析软件
+https://sourceforge.net/projects/dataquality/
+https://sourceforge.net/projects/active-intelligence-server/
+https://sourceforge.net/projects/medilig/
